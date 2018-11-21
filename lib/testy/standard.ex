@@ -10,5 +10,4 @@ defmodule Testy.Standard do
   def multi(a, b) do
     a * b
   end
-  
 end
